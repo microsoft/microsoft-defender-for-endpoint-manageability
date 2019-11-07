@@ -1,3 +1,8 @@
+# Scope
+
+Thanks for your interest in improving Microsoft Defender ATP!
+
+This repo hosts scripts for improving the experience of managing and maintaining Microsoft Defender ATP environments. Any scripts that further this goal are welcome.
 
 # Contributing
 
