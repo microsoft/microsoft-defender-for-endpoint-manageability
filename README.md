@@ -4,6 +4,13 @@ Thanks for your interest in improving Microsoft Defender ATP!
 
 This repo hosts scripts for improving the experience of managing and maintaining Microsoft Defender ATP environments. Any scripts that further this goal are welcome.
 
+# Resources
+
+Helpful resources for getting started:
+
+https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection
+
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
